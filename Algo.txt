@@ -1,4 +1,7 @@
 Step 1: Order the Pizza
+    a) Pay for Pizza
+        -Card: online
+        -Cash: Proceed to Step 3b)
 Step 2: Wait for delivery
 Step 3: Delivery
     a) Greet driver
