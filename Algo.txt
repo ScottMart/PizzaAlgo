@@ -1,2 +1,7 @@
 Step 1: Order the Pizza
 Step 2: Wait for delivery
+Step 3: Delivery
+    a) Greet driver
+    b) Pay driver 
+    c) Tip driver
+Step 4: Enjoy!
